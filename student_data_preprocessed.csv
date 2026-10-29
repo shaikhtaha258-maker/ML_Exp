@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Department,CGPA,City
+101,Amit,20,Male,CSE,8.5,Pune
+102,Sneha,21,Female,IT,9.1,Mumbai
+103,Rahul,,Male,CSE,8.0,Kolhapur
+104,Priya,20,Female,,8.8,Pune
+105,Kiran,22,Male,AIDS,,Sangli
+106,Neha,21,Female,CSE,9.3,Satara
+107,Rohan,,Male,AIML,7.9,Kolhapur
+108,Pooja,20,Female,IT,8.6,
+109,Ajay,22,Male,AIDS,8.2,Pune
+110,Seema,21,Female,CSE,,Mumbai
